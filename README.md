@@ -9,3 +9,18 @@ Nome: Messias André da Costa Bueno
 - `git remote`: Command used to manage the set of repositories for the branches you have.
 - `git log`: Command used to shows the commit logs.
 - `git config`: Command used to update remote references with the desired branch
+
+#Quention 11
+
+Gitflow is a workflow template with Git.
+
+Widely used to organize your branches
+
+A branching structure is created like:
+- main
+- develop
+- feature
+- release
+- hotfix
+
+Each branch has its importance and specialty.
